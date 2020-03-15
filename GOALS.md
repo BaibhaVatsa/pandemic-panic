@@ -12,4 +12,5 @@ Don't want to clutter the README.md so task list is here
 - [ ] Chat plugin contradicts fake claims
 - [ ] ML to improve guesses of what the people want to see in chat plugin
 - [ ] Browser plugin to tell about trusted sources and untrusted sources
+- [ ] Chatbot to ask things like "Do I need to hoard toilet paper?" and "What do I do?"
 
